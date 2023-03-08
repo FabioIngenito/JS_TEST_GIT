@@ -47,3 +47,5 @@ async function pegaArquivoAssyncAwait(caminhoDoArquivo) {
 
 pegaArquivoAssyncAwait("./arquivos/texto.md");
 pegaArquivoAssyncAwait("./arquivos/");
+
+// /\[[^[\]]*?\]/gm
